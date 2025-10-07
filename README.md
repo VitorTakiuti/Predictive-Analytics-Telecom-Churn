@@ -3,8 +3,6 @@ Predictive analysis and development of a Machine Learning model to forecast cust
 
 # Análise Preditiva de Churn de Clientes | Customer Churn Prediction
 
-![Banner](https://i.imgur.com/gY9kF7b.png)
-
 ## 🇧🇷 Português
 
 Este repositório contém uma análise completa e a construção de um modelo de Machine Learning para prever a evasão de clientes (churn) em uma empresa de telecomunicações. O projeto foi desenvolvido em um ambiente Google Colab, utilizando Python e suas principais bibliotecas de Data Science.
@@ -25,7 +23,7 @@ O projeto foi estruturado nas seguintes etapas:
 
 O modelo final, baseado em **Random Forest**, alcançou uma **acurácia de 88%** na previsão de churn. Foi identificado que os principais fatores que levam ao cancelamento são o **tipo de contrato** (contratos mensais têm maior chance de churn) e o **valor da cobrança mensal**. O modelo pode ser utilizado para direcionar campanhas de retenção para clientes de alto risco.
 
----
+------------------------------------------
 
 ## 🇺🇸 English
 
